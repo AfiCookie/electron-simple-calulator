@@ -9,18 +9,6 @@ A simple calculator made with Electron
 
 [<p align="center">[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)</p>
 
-<p align="center">Join modded servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.</p>
-
-![Screenshot 1](app/assets/images/screen1.png)
-![Screenshot 2](app/assets/images/screen2.png)
----
+<p align="center">y</p>
 
 
-[nodejs]: https://nodejs.org/en/ 'Node.js'
-[vscode]: https://code.visualstudio.com/ 'Visual Studio Code'
-[mainprocess]: https://electronjs.org/docs/tutorial/application-architecture#main-and-renderer-processes 'Main Process'
-[rendererprocess]: https://electronjs.org/docs/tutorial/application-architecture#main-and-renderer-processes 'Renderer Process'
-[chromedebugger]: https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome 'Debugger for Chrome'
-
-
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)

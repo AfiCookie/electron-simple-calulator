@@ -5,10 +5,10 @@ A simple calculator made with Electron
 
 <em><h5 align="center">Created with Electron</h5></em>
 
-
+<h5 align="center">
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com) <br> [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) <br> [![forthebadge](https://forthebadge.com/images/badges/validated-html2.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
-
+</h5>
 
  
 ![alt text][logo]
@@ -17,6 +17,3 @@ A simple calculator made with Electron
 
 ![IMAGE ALT TEXT HERE](https://i.imgur.com/fm2njZd.png)
 
-|| <!-- empty table header -->
-|:--:| <!-- table header/body separator with center formatting -->
-| I'm centered! | <!-- cell gets column's alignment -->

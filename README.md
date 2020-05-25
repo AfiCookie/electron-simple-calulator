@@ -7,7 +7,7 @@ A simple calculator made with Electron
 
 <em><h5 align="center">(formerly Electron Launcher)</h5></em>
 
-[<p align="center"><img src="https://img.shields.io/travis/Superkooka/Obsidia-Launcher.svg?style=for-the-badge" alt="travis">](https://travis-ci.org/Superkooka/Obsidia-Launcher) [<img src="https://img.shields.io/github/downloads/Superkooka/Obsidia-Launcher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/Superkooka/Obsidia-Launcher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="stark"></p>
+[<p align="center">[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)</p>
 
 <p align="center">Join modded servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.</p>
 

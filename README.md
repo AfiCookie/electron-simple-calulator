@@ -5,7 +5,7 @@ A simple calculator made with Electron
 
 <em><h4 align="center">Created by AfiCookie with Electron</h4></em>
 
-<img src="https://i.imgur.com/ic0HCL3.png"></img>
+<center><img src="https://i.imgur.com/ic0HCL3.png"></img></center>
 
 <h1 align="center">
   <img src="https://forthebadge.com/images/badges/uses-html.svg">
@@ -17,9 +17,9 @@ A simple calculator made with Electron
    <img src="https://forthebadge.com/images/badges/validated-html2.svg">
     <img src="https://forthebadge.com/images/badges/validated-html5.svg">
   
-<hr>
+<center><img src="https://i.imgur.com/ic0HCL3.png"></img></center>
 <img src="https://i.imgur.com/0oe8aRe.png">
-<hr>
+<center><img src="https://i.imgur.com/ic0HCL3.png"></img></center>
 
 ![IMAGE ALT TEXT HERE](https://i.imgur.com/fm2njZd.png)
 

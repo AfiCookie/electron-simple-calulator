@@ -15,4 +15,4 @@ A simple calculator made with Electron
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-[![IMAGE ALT TEXT HERE](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)]
+![IMAGE ALT TEXT HERE](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)

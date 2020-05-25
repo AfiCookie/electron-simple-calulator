@@ -18,7 +18,7 @@ A simple calculator made with Electron
   <br>
    <img src="https://forthebadge.com/images/badges/validated-html2.svg">
     <img src="https://forthebadge.com/images/badges/validated-html5.svg">
-  
+  <br>
 <center><img src="https://i.imgur.com/ic0HCL3.png"></img></center>
 <img src="https://i.imgur.com/0oe8aRe.png">
 <center><img src="https://i.imgur.com/ic0HCL3.png"></img></center>

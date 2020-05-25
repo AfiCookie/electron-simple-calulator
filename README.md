@@ -5,7 +5,7 @@ A simple calculator made with Electron
 
 <em><h4 align="center">Created by AfiCookie with Electron</h4></em>
 
----
+<img src="https://i.imgur.com/ic0HCL3.png"></img>
 
 <h1 align="center">
   <img src="https://forthebadge.com/images/badges/uses-html.svg">

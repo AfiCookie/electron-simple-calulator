@@ -5,8 +5,8 @@ A simple calculator made with Electron
 
 <em><h5 align="center">Created with Electron</h5></em>
 
-<p align="center">
+<em>
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
+</em>
 
-</p>
 

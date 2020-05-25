@@ -5,7 +5,7 @@ A simple calculator made with Electron
 
 <em><h4 align="center">Created by AfiCookie with Electron</h4></em>
 <h5 align="center">Latest Version is <u>0.0.4</u></h5>
-<p align="center"><img align="center" src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads"></p>
+<p align="center"><img align="center" src="https://img.shields.io/github/downloads/AfiCookie/electron-simple-calulator/total.svg?style=for-the-badge" alt="downloads"></p>
 
 <h1 align="center">
   <em><center><img align="center" href="#" src="https://i.imgur.com/ic0HCL3.png"></img></center></em><br>

@@ -4,7 +4,7 @@ A simple calculator made with Electron
 <h1 align="center">Electron-simple-calulator</h1>
 
 <em><h4 align="center">Created by AfiCookie with Electron</h4></em>
-<h4 align="center">Latest Version is 0.0.4</h4>
+<h4 align="center">Latest Version is **0.0.4**</h4>
 
 
 

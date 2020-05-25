@@ -1,0 +1,51 @@
+* {
+	 box-sizing: border-box;
+}
+ .preloader {
+	 position: absolute;
+	 top: 0;
+	 left: 0;
+	 background-color: #444;
+	 width: 100vw;
+	 height: 100vh;
+	 display: flex;
+	 justify-content: center;
+	 align-items: center;
+	 z-index: 9999;
+	 overflow: hidden;
+}
+ .loader {
+	 height: 4rem;
+	 width: 4rem;
+	 border: 2px solid white;
+	 border-right-color: transparent;
+	 border-top-color: transparent;
+}
+ #app {
+	 max-width: 666px;
+	 margin-left: auto;
+	 margin-right: auto;
+}
+ .slide-fade-enter-active {
+	 transition: all 0.3s ease;
+}
+ .slide-fade-leave-active {
+	 transition: all 0.3s cubic-bezier(1, 0.5, 0.8, 1);
+}
+ .slide-fade-enter, .slide-fade-leave-to {
+	 transform: translateX(10px);
+	 opacity: 0;
+}
+ .fade-enter-active, .fade-leave-active {
+	 transition: opacity 0.3s;
+}
+ .fade-enter, .fade-leave-to {
+	 opacity: 0;
+}
+ .fade-slow-enter-active, .fade-slow-leave-active {
+	 transition: opacity 3s;
+}
+ .fade-slow-enter, .fade-slow-leave-to {
+	 opacity: 0;
+}
+ 

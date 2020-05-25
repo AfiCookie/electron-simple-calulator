@@ -1,0 +1,26 @@
+{
+  "name": "Calculette",
+  "version": "0.1.8",
+  "description": "Simple calculator program with Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Calculator",
+    "Calcul",
+    "program",
+    "simple",
+    "Open-Source"
+  ],
+  "author": "Afi_",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^9.0.0",
+    "electron-packager": "^14.2.1"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}

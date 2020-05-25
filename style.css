@@ -1,0 +1,79 @@
+
+ html {
+background-repeat: no-repeat;
+background-position: center;
+background-size:100% 100%;
+}
+
+ html {
+	 font-family: 'Quicksand';
+   -webkit-user-select: none;
+	 font-weight: 100;
+	 color: #444;
+}
+ body {
+
+	 justify-content: center;
+	 margin: 30px;
+	 font-size: 28px;
+
+}
+ .calculator {
+	 display: flex;
+	 flex-wrap: wrap;
+	 flex-direction: row;
+	 width: 300px;
+
+}
+ .result {
+  -webkit-app-region: drag;
+	 width: 100%;
+	 background-color:  #364044;
+	 min-height: 4em;
+	 color: white;
+	 border-radius: 10px 10px 0px 0px;
+}
+
+
+.front {
+ -webkit-app-region: drag;
+  width: 100%;
+  background-color:  #364044;
+  min-height: 1em;
+  color: white;
+  border-radius: 0px 0px 10px 10px;
+}
+
+ .result > p {
+   text-overflow: ellipsis;
+	 padding: 0 1em;
+   overflow: hidden;
+	 text-align: right;
+	 line-height: 2em;
+}
+ span {
+	 box-sizing: border-box;
+	 text-align: center;
+	 cursor: pointer;
+	 width: 25%;
+	 background-color: #ccc;
+	 line-height: 2em;
+
+}
+ .operator {
+	 background-color: #86c7c4;
+	 color: white;
+      width: 25%;
+}
+ .double {
+	 width: 50%;
+}
+
+.grey {
+  background-color: #aaa;
+}
+
+
+ .clicked {
+	 background-color: #8ed1d1;
+}

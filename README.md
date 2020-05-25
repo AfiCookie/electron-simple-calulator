@@ -17,12 +17,12 @@ A simple calculator made with Electron
    <img src="https://forthebadge.com/images/badges/validated-html2.svg">
     <img src="https://forthebadge.com/images/badges/validated-html5.svg">
 
----
+<hr>
 
 <br>
 <img src="https://i.imgur.com/0oe8aRe.png">
 
----
+<hr>
 
 ![IMAGE ALT TEXT HERE](https://i.imgur.com/fm2njZd.png)
 

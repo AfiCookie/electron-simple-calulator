@@ -16,3 +16,7 @@ A simple calculator made with Electron
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 ![IMAGE ALT TEXT HERE](https://i.imgur.com/fm2njZd.png)
+
+|| <!-- empty table header -->
+|:--:| <!-- table header/body separator with center formatting -->
+| I'm centered! | <!-- cell gets column's alignment -->

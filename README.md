@@ -8,7 +8,7 @@ A simple calculator made with Electron
 
 
 <h1 align="center">
-  <em><center><img align="center" src="https://i.imgur.com/ic0HCL3.png"></img></center></em><br>
+  <em><center><img align="center" href="#" src="https://i.imgur.com/ic0HCL3.png"></img></center></em><br>
   
   <img src="https://forthebadge.com/images/badges/uses-html.svg">
    <img src="https://forthebadge.com/images/badges/uses-css.svg">
@@ -19,9 +19,9 @@ A simple calculator made with Electron
    <img src="https://forthebadge.com/images/badges/validated-html2.svg">
     <img src="https://forthebadge.com/images/badges/validated-html5.svg">
   <br>
-<center><img src="https://i.imgur.com/ic0HCL3.png"></img></center>
-<img src="https://i.imgur.com/0oe8aRe.png">
-<center><img src="https://i.imgur.com/ic0HCL3.png"></img></center>
+<center><img href="#" src="https://i.imgur.com/ic0HCL3.png"></img></center>
+<img href="#" src="https://i.imgur.com/0oe8aRe.png">
+<center><img href="#" src="https://i.imgur.com/ic0HCL3.png"></img></center>
 
 ![IMAGE ALT TEXT HERE](https://i.imgur.com/fm2njZd.png)
 

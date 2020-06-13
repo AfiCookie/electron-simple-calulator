@@ -28,5 +28,5 @@ A simple calculator made with Electron
 
 ![IMAGE ALT TEXT HERE](https://i.imgur.com/fm2njZd.png)
 
-<center><b>Compatible with Operating System</b></center>
+<center><b><p>Compatible with Operating System</p></b></center>
 

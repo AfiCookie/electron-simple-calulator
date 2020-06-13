@@ -12,7 +12,7 @@ A simple calculator made with Electron
 <em><center><img height="40px" align="center" src="https://image.flaticon.com/icons/svg/906/906308.svg"></center></em>
 
 <h1 align="center">
-  <em align="center"><img align="center" href="#" src="https://i.imgur.com/ic0HCL3.png"></img></em><br></h1>
+  <em align="center"><img align="center" href="#" src="https://i.imgur.com/ic0HCL3.png"></img></em><br>
   
   <img src="https://forthebadge.com/images/badges/uses-html.svg">
    <img src="https://forthebadge.com/images/badges/uses-css.svg">

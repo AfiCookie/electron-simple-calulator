@@ -9,7 +9,7 @@ A simple calculator made with Electron
 <p align="center"><img align="center" src="https://img.shields.io/github/downloads/AfiCookie/electron-simple-calulator/total.svg?style=for-the-badge" href="https://github.com/AfiCookie/electron-simple-calulator/releases/download/0.0.4/SimpleCalculatorInstaller.exe" alt="downloads"></p>
 
 
-<b><p align="center">Compatible with Operating System:</p></b><sub align="center">- Windows 7 / Window 8 /Window 8.1 / Window 10 </sub>
+<b><h6 align="center">Compatible with Operating System:</h6></b><h5 align="center">- Windows 7 / Window 8 /Window 8.1 / Window 10 </h5><h5> & Architecture 32x - 64x - 86x </h5>
 
 <h1 align="center">
   <em align="center"><img align="center" href="#" src="https://i.imgur.com/ic0HCL3.png"></img></em><br>

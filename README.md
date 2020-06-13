@@ -2,7 +2,6 @@
 A simple calculator made with Electron
 
 
-<script src="https://kit.fontawesome.com/0c5f1efdc6.js" crossorigin="anonymous"></script>
 <h1 align="center">Electron-simple-calulator</h1>
 
 <em><h4 align="center">Created by AfiCookie with Electron</h4></em><br><p align="center"><img height="20px" align="center" src="https://image.flaticon.com/icons/svg/808/808851.svg"></p>
@@ -10,11 +9,8 @@ A simple calculator made with Electron
 <p align="center"><img align="center" src="https://img.shields.io/github/downloads/AfiCookie/electron-simple-calulator/total.svg?style=for-the-badge" href="https://github.com/AfiCookie/electron-simple-calulator/releases/download/0.0.4/SimpleCalculatorInstaller.exe" alt="downloads"></p>
 
 
-<b><p align="center">Compatible with Operating System:</p></b><sub align="center"><i class="fab fa-windows"></i> - Windows 7 / Window 8 /Window 8.1 / Window 10 </sub>
+<b><p align="center">Compatible with Operating System:</p></b><sub align="center">- Windows 7 / Window 8 /Window 8.1 / Window 10 </sub>
 
-<h1 align="center">
-<em><center><img height="40px" align="center" src="https://image.flaticon.com/icons/svg/906/906308.svg"></center></em>
-</h1>
 <h1 align="center">
   <em align="center"><img align="center" href="#" src="https://i.imgur.com/ic0HCL3.png"></img></em><br>
   

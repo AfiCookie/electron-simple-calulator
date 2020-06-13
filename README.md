@@ -9,7 +9,7 @@ A simple calculator made with Electron
 
 
 <b><p align="center">Compatible with Operating System:</p></b>
-https://image.flaticon.com/icons/svg/906/906308.svg
+<img height="40px" align="center" src="https://image.flaticon.com/icons/svg/906/906308.svg">
 
 <h1 align="center">
   <em><center><img align="center" href="#" src="https://i.imgur.com/ic0HCL3.png"></img></center></em><br>

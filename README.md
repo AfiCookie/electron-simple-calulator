@@ -7,6 +7,8 @@ A simple calculator made with Electron
 <h5 align="center">Latest Version is <u>0.0.4</u></h5>
 <p align="center"><img align="center" src="https://img.shields.io/github/downloads/AfiCookie/electron-simple-calulator/total.svg?style=for-the-badge" href="https://github.com/AfiCookie/electron-simple-calulator/releases/download/0.0.4/SimpleCalculatorInstaller.exe" alt="downloads"></p>
 
+
+
 <h1 align="center">
   <em><center><img align="center" href="#" src="https://i.imgur.com/ic0HCL3.png"></img></center></em><br>
   
@@ -25,4 +27,6 @@ A simple calculator made with Electron
 <center><img href="#" src="https://i.imgur.com/ic0HCL3.png"></img></center>
 
 ![IMAGE ALT TEXT HERE](https://i.imgur.com/fm2njZd.png)
+
+<center><b>Compatible with Operating System</b></center>
 

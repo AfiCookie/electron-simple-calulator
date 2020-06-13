@@ -1,6 +1,8 @@
 # electron-simple-calulator
 A simple calculator made with Electron
 
+
+<script src="https://kit.fontawesome.com/0c5f1efdc6.js" crossorigin="anonymous"></script>
 <h1 align="center">Electron-simple-calulator</h1>
 
 <em><h4 align="center">Created by AfiCookie with Electron</h4></em><br><p align="center"><img height="20px" align="center" src="https://image.flaticon.com/icons/svg/808/808851.svg"></p>

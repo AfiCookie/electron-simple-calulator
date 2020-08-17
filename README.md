@@ -1,4 +1,4 @@
-<h1> electron-simple-calulator <a href="#" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png"></img></a></h1>
+<h1> electron-simple-calulator <a href="#" /><img width="100%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png"></img></a></h1>
 
 <p>A simple calculator made with ElectronJS
 <a href="#" /><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png"></img></a></p>

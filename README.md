@@ -15,6 +15,9 @@ A simple calculator made with Electron
   <em align="center"><img align="center" href="#" src="https://i.imgur.com/ic0HCL3.png"></img></em><br>
   
  
+ [create issue](https://github.com/user/repository/issues/new)
+ 
+ 
   <img src="https://forthebadge.com/images/badges/uses-html.svg">
    <img src="https://forthebadge.com/images/badges/uses-css.svg">
     <img src="https://forthebadge.com/images/badges/uses-js.svg">

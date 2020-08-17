@@ -1,8 +1,7 @@
 # electron-simple-calulator
 
-<a href="#" />
 <p>A simple calculator made with ElectronJS
-<img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png"></img></a>
+<a href="#" /><img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png"></img></a>
                      </p>
 
 

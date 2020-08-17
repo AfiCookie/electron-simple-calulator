@@ -1,8 +1,9 @@
 # Security Policy
 
-## Supported Versions
 
-<h1>Ce projet ne nessesite aucune réele securité car aucune information oudonnées est stoqué</h1>
+<h1>:warn: This project does not require any real security because no information or data is stored</h1>
+
+## Supported Versions
 
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.

@@ -1,7 +1,7 @@
 # Security Policy
 
 
-<h1>:warning: This project does not require any real security because no information or data is stored</h1>
+<b>:warning: This project does not require any real security because no information or data is stored</b>
 
 ## Supported Versions
 

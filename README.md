@@ -7,4 +7,4 @@
 <p align="center"><b> Windows 7 / Window 8 /Window 8.1 / Window 10 <sub>& Architecture 32x - 64x - 86x</b></sub></p>
 
 <a href="https://github.com/AfiCookie/electron-simple-calulator/releases/download/0.0.4/SimpleCalculatorInstaller.exe" />
-<p align="center"><img align="center" src="https://i.imgur.com/ujuyDqs.png"></img><img src="https://img.icons8.com/all/500/cursor.png"></img></p>
+<p align="center"><img align="center" src="https://i.imgur.com/ujuyDqs.png"></img><img width="15" src="https://img.icons8.com/all/500/cursor.png"></img></p>

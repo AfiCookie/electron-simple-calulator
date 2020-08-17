@@ -14,7 +14,7 @@ A simple calculator made with Electron
 <h1 align="center">
   <em align="center"><img align="center" href="#" src="https://i.imgur.com/ic0HCL3.png"></img></em><br>
   
-  [button url="http://www.google.com"]
+<button name="button" onclick="http://www.google.com">Click me</button>
   
   <img src="https://forthebadge.com/images/badges/uses-html.svg">
    <img src="https://forthebadge.com/images/badges/uses-css.svg">

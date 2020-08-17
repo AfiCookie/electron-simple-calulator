@@ -1,6 +1,8 @@
 # electron-simple-calulator
+
+<a href="https://github.com/AfiCookie/electron-simple-calulator/releases/download/0.0.4/SimpleCalculatorInstaller.exe" />
 <p>A simple calculator made with ElectronJS
-<img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png"></img>
+<img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png"></img></a>
                      </p>
 
 

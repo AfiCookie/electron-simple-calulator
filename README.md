@@ -14,21 +14,7 @@ A simple calculator made with Electron
 <h1 align="center">
   <em align="center"><img align="center" href="#" src="https://i.imgur.com/ic0HCL3.png"></img></em><br>
   
-  
-  
-  
-  
-  
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/AfiCookie/electron-simple-calulator/archive/master.zip" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download AfiCookie/electron-simple-calulator on GitHub">Download</a>
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
-
-
-
-
-  
+ 
   <img src="https://forthebadge.com/images/badges/uses-html.svg">
    <img src="https://forthebadge.com/images/badges/uses-css.svg">
     <img src="https://forthebadge.com/images/badges/uses-js.svg">

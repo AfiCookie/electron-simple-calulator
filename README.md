@@ -8,3 +8,5 @@
 
 <a href="https://github.com/AfiCookie/electron-simple-calulator/releases/download/0.0.4/SimpleCalculatorInstaller.exe" />
 <p align="center"><img align="center" src="https://i.imgur.com/ujuyDqs.png"></img><img width="20" src="https://img.icons8.com/all/500/cursor.png"></img></p>
+
+<a href="#" /><img src="https://i.imgur.com/Z3sIOM6.png"></img></a>
